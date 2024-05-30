@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: crimson;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 30px;
+    color: darkgreen;
+    display: block;
+    text-decoration: none;
+    font-family: Chilanka;
+}
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
+p{
+    font-size: small;
+    font-family: "Droid Serif";
+}
+body{
+    background-image: url("background.png");
+    background-size: cover;
+}
+th,td{
+    border: 3px solid red;
+    padding: 20px;
+    font-family: FreeSerif;
+    color: aliceblue;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}

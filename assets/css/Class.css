@@ -1,0 +1,54 @@
+.fruits{
+    border: 2px solid darkgreen;
+    text-align: center;
+    padding: 16px;
+    margin: 16px;
+    color: blue;
+    background-color:yellowgreen;
+}
+.cars{
+    border: 2px double darkblue;
+    text-align:center;
+    padding: 15px;
+    margin: 15px;
+    color:darkred;
+    background-color: aquamarine;
+}
+.Fruits{
+    border: 3px dotted darkmagenta;
+    color:darkred;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    background-color: aliceblue;
+}
+#school{
+    border: 3px solid darkred;
+    color: darkblue;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    background-color: yellow;
+}
+.myform{
+    text-align: center;
+    border: 2px dotted black;
+    background-image: url("img_4.png");
+    background-position: center;
+    background-size: cover;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    color: darkred;
+}
+header{
+    font-family: "Century Schoolbook L";
+    border:2px solid black;
+}
+footer{
+    font-family: "Bitstream Charter";
+    color: darkred;
+    border:2px dotted blue;
+    padding: 3px;
+}
